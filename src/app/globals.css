@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+    background-color: #7E33E0;
+}
+
+.text {
+    color: #0D0E43;
+}
+
+.icons {
+    color:#0D0E43
+}
