@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const TrendingProducts = () => {
   const products = [
@@ -42,7 +43,7 @@ const TrendingProducts = () => {
               style={{ width: "270px", height: "310px" }}
             >
               <div className="w-full h-40 flex items-center justify-center overflow-hidden rounded-lg">
-                <img
+                <Image
                   src={product.image}
                   alt={product.name}
                   className="object-contain"
