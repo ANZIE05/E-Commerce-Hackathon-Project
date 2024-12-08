@@ -37,7 +37,7 @@ const DiscountItem: React.FC = () => {
 
         {/* Right Content */}
         <div className="flex-1">
-          <img
+          <Image
             src="images/1st-page-images/tortuga.png"
             alt="Chair" width={500}
             className="rounded-full shadow-md w-full max-w-sm mx-auto"
