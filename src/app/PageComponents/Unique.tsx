@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from "next/image";
 
 function Unique() {
   return (
@@ -8,7 +9,7 @@ function Unique() {
         <div className="p-[64px]  flex flex-wrap md:flex-nowrap items-center gap-10 px-6">
           <div className="flex-1">
             {/* Product Image */}
-            <img
+            <Image
               src="/images/1st-page-images/couch.png"
               alt="Product" width={500}
               className="rounded-lg shadow-md"
