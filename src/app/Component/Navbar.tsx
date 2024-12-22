@@ -37,7 +37,7 @@ function Navbar() {
                 <Link href="/">Home </Link> <IoIosArrowDown className='pt-1 text-lg'/>
               </li>
               <li className='p-4 hover:underline  hover:text-pink-600 underline-offset-2'>
-                <Link href="/pages">Pages</Link>
+                <Link href="/ShopLeftSidebar">Pages</Link>
               </li>
               <li className='p-4 hover:underline  hover:text-pink-600 underline-offset-2'>
                 <Link href="/GridDefault">Products</Link>
@@ -49,7 +49,7 @@ function Navbar() {
                 <Link href="/ShopList">Shop</Link>
               </li>
               <li className='p-4 hover:underline  hover:text-pink-600 underline-offset-2'>
-                <Link href="/MyAccount">Contact</Link>
+                <Link href="/Faq">Contact</Link>
               </li>
 
             </ul>
