@@ -69,7 +69,7 @@ const TopBar = () => {
           </div>
 
           {/* Login */}
-          <a href="/login" className="flex items-center gap-2 cursor-pointer hover:text-gray-800">
+          <a href="/MyAccount" className="flex items-center gap-2 cursor-pointer hover:text-gray-800">
             <FaUser />
             <span>Login</span>
           </a>
