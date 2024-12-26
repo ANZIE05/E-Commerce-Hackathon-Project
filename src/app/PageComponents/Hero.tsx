@@ -17,7 +17,7 @@ const slides = [
     description:
       "Discover the latest modern furniture trends to elevate your living space.",
     buttonText: "Shop Now",
-    chairImage: "/images/1st-page-images/sofa.png", 
+    chairImage: "/images/1st-page-images/tortuga.png", 
     lightImage: "/images/1st-page-images/light.png", 
   },
   {
@@ -25,7 +25,7 @@ const slides = [
     description:
       "Bring timeless elegance to your home with our exclusive furniture collection.",
     buttonText: "Shop Now",
-    chairImage: "/images/1st-page-images/sofa.png", 
+    chairImage: "/images/1st-page-images/couch.png", 
     lightImage: "/images/1st-page-images/light.png", 
   },
 ];
